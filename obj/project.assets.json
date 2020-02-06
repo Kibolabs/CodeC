@@ -515,10 +515,12 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.0.0": {
-      "sha512": "VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+      "sha512": "CCf4NjmDOoise7FAij2VPuHIgKKsu696vkTwhOkPVQfLsTmB2WLFfQ4yeO5Udtk8FD636UBMx6Y9eovzJKT76A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
@@ -670,11 +672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kibo/Desktop/CodeC#/CodeC#.csproj",
-      "projectName": "CodeC#",
-      "projectPath": "/Users/kibo/Desktop/CodeC#/CodeC#.csproj",
+      "projectUniqueName": "/Users/kibo/Desktop/CodeC/CodeC.csproj",
+      "projectName": "CodeC",
+      "projectPath": "/Users/kibo/Desktop/CodeC/CodeC.csproj",
       "packagesPath": "/Users/kibo/.nuget/packages/",
-      "outputPath": "/Users/kibo/Desktop/CodeC#/obj/",
+      "outputPath": "/Users/kibo/Desktop/CodeC/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -703,6 +705,7 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true

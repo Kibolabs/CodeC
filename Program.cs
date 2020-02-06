@@ -12,8 +12,8 @@ namespace CodeC_
             Program fib =new Program();
             Dictionary<int, double> dict = new Dictionary<int,double>();
             for(int i=1; i<=n; i++){
-                //Console.WriteLine("Fibonnaci for "+ i + " is: " + fib.Fib(i));
-                Console.WriteLine("Fibonnaci for "+ i + " is: " + fib.FastFib(i, memo:dict));
+                Console.WriteLine("Fibonnaci for "+ i + " is: " + fib.Fib(i));
+                //Console.WriteLine("Fibonnaci for "+ i + " is: " + fib.FastFib(i, memo:dict));
                 
             }
             

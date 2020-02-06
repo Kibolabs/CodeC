@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "CodeC#/1.0.0": {
+      "CodeC/1.0.0": {
         "runtime": {
-          "CodeC#.dll": {}
+          "CodeC.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CodeC#/1.0.0": {
+    "CodeC/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -9,3 +9,14 @@
 /Users/kibo/Desktop/CodeC#/obj/Debug/netcoreapp2.0/CodeC#.AssemblyInfo.cs
 /Users/kibo/Desktop/CodeC#/obj/Debug/netcoreapp2.0/CodeC#.dll
 /Users/kibo/Desktop/CodeC#/obj/Debug/netcoreapp2.0/CodeC#.pdb
+/Users/kibo/Desktop/CodeC/bin/Debug/netcoreapp2.0/CodeC.deps.json
+/Users/kibo/Desktop/CodeC/bin/Debug/netcoreapp2.0/CodeC.runtimeconfig.json
+/Users/kibo/Desktop/CodeC/bin/Debug/netcoreapp2.0/CodeC.runtimeconfig.dev.json
+/Users/kibo/Desktop/CodeC/bin/Debug/netcoreapp2.0/CodeC.dll
+/Users/kibo/Desktop/CodeC/bin/Debug/netcoreapp2.0/CodeC.pdb
+/Users/kibo/Desktop/CodeC/obj/Debug/netcoreapp2.0/CodeC.csprojAssemblyReference.cache
+/Users/kibo/Desktop/CodeC/obj/Debug/netcoreapp2.0/CodeC.csproj.CoreCompileInputs.cache
+/Users/kibo/Desktop/CodeC/obj/Debug/netcoreapp2.0/CodeC.AssemblyInfoInputs.cache
+/Users/kibo/Desktop/CodeC/obj/Debug/netcoreapp2.0/CodeC.AssemblyInfo.cs
+/Users/kibo/Desktop/CodeC/obj/Debug/netcoreapp2.0/CodeC.dll
+/Users/kibo/Desktop/CodeC/obj/Debug/netcoreapp2.0/CodeC.pdb
